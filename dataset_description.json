@@ -9,7 +9,7 @@
         "Thomas G. Close",
         "Alex Fornito",
         "Malin Premaratne",
-        "Kieren O\u2019Brien",
+        "Kieren O’Brien",
         "Daniel Staeb",
         "Zhaolin Chen",
         "N. Jon Shah",
@@ -25,5 +25,5 @@
     "ReferencesAndLinks": [
         "https://doi.org/10.1038/s41597-020-00699-5"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds002898.v1.2.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds002898.v1.3.0"
 }
