@@ -1,1 +1,3 @@
 /sub-*/pet/*defacemask.nii.gz
+/sub-*/func/*timeseries.csv
+/sub-*/pet/*timeseries.csv
