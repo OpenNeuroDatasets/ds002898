@@ -1,6 +1,0 @@
-{
-  "RawSources": [
-    "sub-18/func/sub-18_task_rest_pet.nii.gz"
-  ],
-  "Description": "Motion-correction parameters (pitch, roll, yaw, x, y, z) estimated per frame using FSL MCFLIRT in text file (cols: params, rows: frames)"
-}
