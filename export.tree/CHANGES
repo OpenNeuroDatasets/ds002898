@@ -1,0 +1,21 @@
+1.4.1 2023-09-11
+  - uploaded plasma radioactivity data for n=22 subjects
+1.4.0 2023-06-06
+  - upload fixed pet timeseries csv files
+1.3.1 2022-08-15
+  - add region names for dk timeseries
+1.3.0 2022-08-10
+  - add fmri and fpet timeseries data
+1.2.0 2021-12-16
+  - update to support latest PET BIDS specs
+1.1.2 2021-12-06
+  - update sub-03_task-rest_pet.nii.gz
+1.1.1 2020-10-27
+  - updated reference list
+1.1.0 2020-09-08
+  - - Updated PET JSON side cars to match latest version of PET BIDS Extension Proposal (https://docs.google.com/document/d/1mqMLnxVdLwZjDd4ZiWFqjEAmOmfcModA_R535v3eQs0/edit#)
+  - - Included Motion-correction parameters estimated by FSL MCFLIRT for PET images in "derivatives" directory
+
+1.0.0	2020-09-08
+
+	- Initial snapshot
