@@ -1,3 +1,5 @@
+1.4.2 2024-03-18
+  - update MRI timeserials files and add the matrix for mri motion parametres 
 1.4.1 2023-09-11
   - uploaded plasma radioactivity data for n=22 subjects
 1.4.0 2023-06-06
