@@ -1,0 +1,29 @@
+{
+    "Name": "Monash rsPET-MR",
+    "BIDSVersion": "1.3.0",
+    "License": "CC0",
+    "HowToAcknowledge": "Cite this paper: \"Jamadar, S.D., Ward, P.G.D., Close, T.G., Fornito, F., Premaratne, M., O'Brien, K., Staeb, D., Chen, Z., Shah, N.J., Egan, G.F., 2020. 'Monash rsPET-MR'- Simultaneous BOLD-fMRI and constant infusion FDG-PET data of the resting human brain. Scientific Data, 7, 363. https://doi.org/10.1038/s41597-020-00699-5\" and consider including the following message 'This data was obtained from the OpenNeuro database.'",
+    "Authors": [
+        "Sharna D. Jamadar",
+        "Phillip G.D. Ward",
+        "Thomas G. Close",
+        "Alex Fornito",
+        "Malin Premaratne",
+        "Kieren O’Brien",
+        "Daniel Staeb",
+        "Zhaolin Chen",
+        "N. Jon Shah",
+        "Gary F. Egan"
+    ],
+    "Acknowledgments": "The authors acknowledge Richard McIntyre, Alexandra Carey, Disha Sasan, Winnie Orchard and Irene Graafsma from Monash Biomedical Imaging for their assistance in acquiring data.",
+    "Funding": [
+        "Australian Research Council (ARC) Linkage Project (LP170100494) that includes financial support from Siemens Healthineers.",
+        "ARC Centre of Excellence for Integrative Brain Function (CE140100007).",
+        "ARC Discovery Early Career Researcher Award (DE150100406)",
+        "National Health and Medical Research Council Fellowship (APP1174164)."
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1038/s41597-020-00699-5"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds002898.v1.4.2"
+}
